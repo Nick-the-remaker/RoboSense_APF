@@ -29,10 +29,10 @@
 ## 运行效果
 
 ### 仿真截图
-![APF避障仿真截图](apf_simulation.png)
+![APF避障仿真截图](src/APF_node/images/RS.png)
 
 ### 演示视频
-[观看仿真视频](apf_simulation.mp4)
+[仿真视频](src/APF_node/images/RS_APF.mp4)
 
 ### 编译运行
 
